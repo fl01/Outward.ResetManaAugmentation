@@ -1,0 +1,10 @@
+{
+  "name": "ResetManaAugmentation",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/fl01/Outward.ResetManaAugmentation",
+  "description": "Adds special fruit. Speak to chef merchants if you want to obtain one",
+  "dependencies": [
+    "sinai-dev-SideLoader-3.7.0",
+    "BepInEx-BepInExPack_Outward-5.4.15"
+  ]
+}

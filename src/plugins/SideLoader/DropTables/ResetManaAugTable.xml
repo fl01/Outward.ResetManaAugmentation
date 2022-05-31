@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_DropTable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UID>fl01.resetmanaaugdrop</UID>
+	<GuaranteedDrops>
+		<SL_ItemDrop>
+			<MinQty>1</MinQty>
+			<MaxQty>1</MaxQty>
+			<DroppedItemID>-24000</DroppedItemID>
+		</SL_ItemDrop>
+	</GuaranteedDrops>
+</SL_DropTable>

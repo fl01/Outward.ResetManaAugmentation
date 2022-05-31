@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_DropTableAddition xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<IdentifierName>fl01.resetmanaaugstock</IdentifierName>
+	<SelectorTargets>
+		<string>tU2CKVUfS0So5X5HNinAIg</string>
+		<string>Ityds-MoT0yeuDsZWf3uig</string>
+		<string>xlkX6BDg7kumwrn4tBJODA</string>
+		<string>YPcNrGC_o060vE8TZaCq7A</string>
+		<string>gcoiwYEhK0uAm918k2c2Yg</string>
+		<string>Elc5BIFbGk2iT7q3_8UhFw</string>
+	</SelectorTargets>
+	<DropTableUIDsToAdd >
+		<string>fl01.resetmanaaugdrop</string>
+	</DropTableUIDsToAdd>
+</SL_DropTableAddition>
